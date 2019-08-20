@@ -1,5 +1,7 @@
-# DSP Full Stack Engineering Test
-## This test comprises of backend and frontend problems.
+
+
+
+
 The API portion comprises of creating a new REST endpoint and the frontend portion comprises of accessing said endpoint and displaying the resulting information on a webpage.
 
 
@@ -148,15 +150,6 @@ Figure 1. Round Robin table
 | **5** | 5 | 1 | 2 | 3 | 4 |
 
 
-#### Estimated Time
-
-| Section            | Estimated Time |
-| :----------------  | -------------- |
-| Create Tournament  | 20 minutes     |
-| Retrive Fixtures   | 20 minutes     |
-| Calculate Fixtures | 1-2 hours      |
-| **Total**          | 2-3 hours      |
-
 
 ## Frontend Enhancement tasks
 
@@ -185,12 +178,3 @@ Given the Mock provided below please implement the following:
 #### Mock
 ![full-stack-solution.gif](full-stack-solution.gif)
 
-#### Timings
-
-| Section          | Estimated Time |
-| :--------------- | -------------- |
-| JavaScript       | 10 minutes     |
-| JavaScript Tests | 10 minutes     |
-| CSS              | 15 minutes     |
-
-(Total estimated time: 35 minutes)
